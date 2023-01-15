@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/code_teaser_image.jpg
   
 gallery:
-  - url: https://www.jetbrains.com/pycharm/
+  - url: assets/img/pycharm_image.jpg
     image_path: /assets/img/pycharm_image.jpg
     alt: "placeholder image 1"
     
