@@ -7,7 +7,7 @@ header:
   
 gallery:
   - url: https://www.jetbrains.com/pycharm/
-    image_path: /assets/img/Hivamat_image.jpg
+    image_path: /assets/img/pycharm_image.jpg
     alt: "placeholder image 1"
     
 ---
