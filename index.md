@@ -14,13 +14,11 @@ feature_row:
     alt: "Training Room"
     title: "Athletic Training"
     excerpt: "Sports Medicine Internship."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: /assets/img/code_teaser_image.jpg
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Python Project"
+    excerpt: "Final Python project for course."
+
 ---
 
 {% include feature_row %}
