@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Taylor Patino is a Chemical Engineering student with a passion in pharmaceutical development."
+excerpt: "Taylor Patino is a Chemical Engineering student with a passion in pharmaceutical discovery and development."
 feature_row:
   - image_path: /assets/img/athletic_training_room.jpg
     alt: "Training Room"
