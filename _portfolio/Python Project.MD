@@ -2,7 +2,7 @@
 title: "Python Project"
 excerpt: "This python code is the final project for an introductory Python course."
 header:
-  image: /assets/img/code_teaser_image.jpg
+  image: /assets/img/code_screenshot.png
   teaser: /assets/img/code_teaser_image.jpg
   
 gallery:
