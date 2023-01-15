@@ -17,9 +17,9 @@ gallery:
 
 ---
 
-Utilize technical medical devices such as  Hivamat, BFR, and Biowave in recovery programs.  
-Assist the athletic trainer in preparing athletes for daily practice.  
-Work one-on-one with athletes in recovery programs for injury.
+* Utilize technical medical devices such as  Hivamat, BFR, and Biowave in recovery programs.  
+* Assist the athletic trainer in preparing athletes for daily practice.  
+* Work one-on-one with athletes in recovery programs for injury.
 
 
 {% include gallery caption="Technical devices used." %}
