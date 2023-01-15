@@ -4,6 +4,12 @@ excerpt: "This python code is the final project for an introductory Python cours
 header:
   image: /assets/img/code_teaser_image.jpg
   teaser: /assets/img/code_teaser_image.jpg
+  
+gallery:
+  - url: /assets/img/Hivamat_image.jpg
+    image_path: /assets/img/Hivamat_image.jpg
+    alt: "placeholder image 1"
+    
 ---
 
 This final project encoumpassed all of the skills learned in this class (e.g. while loops, for loops, global variables, functions, classes, if/else statements, built-in python operations, local variables, lists, parameters, and print). 
