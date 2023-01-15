@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: https://cdn.pixabay.com/photo/2016/07/24/21/01/thermometer-1539191_1280.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
