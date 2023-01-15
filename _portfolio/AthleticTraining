@@ -10,8 +10,8 @@ gallery:
   - url: /assets/img/bfr_image.jpg
     image_path: /assets/img/bfr_image.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/biowave_image.jpg
+    image_path: /assets/img/biowave_image.jpg
     alt: "placeholder image 3"
 ---
 
